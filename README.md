@@ -24,9 +24,10 @@ This is a portfolio website designed using HTML, CSS, and JavaScript to showcase
 
 To view the portfolio website, follow these steps:
 
-- Clone this repository: git clone https://github.com/<your-username>/<your-repository>.git
-- Navigate to the directory where you cloned the repository: cd <your-repository>
-- Open the index.html file in your web browser.
+
+1. Clone this repository: `git clone https://github.com/matthewlieb/2022-portfolio.git`
+2. Navigate to the directory where you cloned the repository: `cd 2022-portfolio`
+3. Open the `index.html` file in your web browser.
 
 From there, you can navigate to the different pages to view my projects and accomplishments.
 

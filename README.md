@@ -22,7 +22,13 @@ This is a portfolio website designed using HTML, CSS, and JavaScript to showcase
 
 ## Usage 🚀
 
-To view the portfolio website, simply open the `index.html` file in your web browser. From there, you can navigate to the different pages to view my projects and accomplishments.
+To view the portfolio website, follow these steps:
+
+- Clone this repository: git clone https://github.com/<your-username>/<your-repository>.git
+- Navigate to the directory where you cloned the repository: cd <your-repository>
+- Open the index.html file in your web browser.
+
+From there, you can navigate to the different pages to view my projects and accomplishments.
 
 ## Contributing 🤝
 
